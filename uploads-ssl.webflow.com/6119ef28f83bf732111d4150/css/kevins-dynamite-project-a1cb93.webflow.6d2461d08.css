@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 16 2021 23:51:44 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Aug 17 2021 00:52:41 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -200,7 +200,7 @@ blockquote {
 
 .body {
   overflow: visible;
-  background-color: #455c59;
+  background-color: #2b3f3c;
   font-size: 16px;
   cursor: none;
 }
@@ -898,6 +898,7 @@ blockquote {
   transform: rotate(-30deg) skew(-30deg, 0deg) translate(-10vw, 5vh);
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #c38d9e;
+  cursor: none;
 }
 
 .nav-link {
@@ -907,6 +908,7 @@ blockquote {
 
 .nav-link.w--current {
   color: #fff;
+  cursor: none;
 }
 
 .nav-link.w--current:hover {
@@ -916,14 +918,23 @@ blockquote {
 
 .nav-link._1 {
   color: #fff;
+  cursor: none;
 }
 
 .nav-link._1:hover {
   color: #c38d9d;
 }
 
+.nav-link._2 {
+  cursor: none;
+}
+
 .nav-link._2:hover {
   color: #f48389;
+}
+
+.nav-link._3 {
+  cursor: none;
 }
 
 .nav-link._3:hover {
@@ -932,6 +943,7 @@ blockquote {
 
 .nav-link-3 {
   color: #fff;
+  cursor: none;
 }
 
 .nav-link-3:hover {
@@ -1052,6 +1064,18 @@ blockquote {
 
 .link {
   color: #fff;
+}
+
+.container-2 {
+  cursor: none;
+}
+
+.menu-button {
+  cursor: none;
+}
+
+.icon {
+  cursor: none;
 }
 
 @media screen and (max-width: 991px) {
