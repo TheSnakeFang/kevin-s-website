@@ -1,4 +1,4 @@
-/* Generated on: Tue Aug 17 2021 00:52:41 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Aug 17 2021 03:30:29 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -200,7 +200,7 @@ blockquote {
 
 .body {
   overflow: visible;
-  background-color: #2b3f3c;
+  background-color: #3e4953;
   font-size: 16px;
   cursor: none;
 }
@@ -580,7 +580,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #23353a;
+  background-color: #17423d;
 }
 
 .info-headline {
@@ -817,6 +817,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  cursor: none;
 }
 
 .paragraph-big {
@@ -1064,6 +1065,7 @@ blockquote {
 
 .link {
   color: #fff;
+  cursor: none;
 }
 
 .container-2 {
