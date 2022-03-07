@@ -2,6 +2,4 @@
 
 hello friends 
 
-produced in Webflow. hosted on Netlify.
-
-email me at kevinfang@cmu.edu
+produced in Webflow. hosted on Netlify. best way to prototype and host fast and free.
