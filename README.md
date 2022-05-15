@@ -1,5 +1,13 @@
 # kevin-s-website
 
-hello friends 
+Designed in: Webflow
 
-produced in Webflow. hosted on Netlify. best way to prototype and host fast and free.
+Hosted: Netlify
+
+Website: http://kevinfang.tech
+
+Created by: Kevin Fang
+
+Find me at: kevinfang AT cmu.edu
+
+
