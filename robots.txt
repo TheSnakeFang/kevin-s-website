@@ -1,0 +1,2 @@
+User-agent: * 
+Disallow: /uploads-ssl.webflow.com/6119ef28f83bf732111d4150/Fang_Kevin_Resume.pdf
