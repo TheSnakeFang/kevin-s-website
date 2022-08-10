@@ -1,2 +1,2 @@
 User-agent: * 
-Disallow: /uploads-ssl.webflow.com/docs/Fang_Kevin_Resume.pdf
+Disallow: /assets/docs/Fang_Kevin_Resume.pdf
