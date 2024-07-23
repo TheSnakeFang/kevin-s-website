@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "ai-digest": "^1.0.4"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
