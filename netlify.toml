@@ -1,9 +1,5 @@
-[
-build
-]
+[build]
   publish = "."
 
-[
-build.environment
-]
+[build.environment]
   NODE_VERSION = "20"
