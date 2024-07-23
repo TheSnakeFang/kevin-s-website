@@ -73,20 +73,21 @@
       text-transform: uppercase;
       z-index: 2000;
       opacity: 0;
-      transition: opacity 0.5s ease-in-out;
+      transition: opacity 1.0s ease-in-out;
+      border-radius: 5px;
     `;
     document.body.appendChild(prompt);
   
     // Fade in the prompt
     setTimeout(() => {
       prompt.style.opacity = '1';
-    }, 100);
+    }, 200);
   
     // Fade out and remove the prompt after 3 seconds
     setTimeout(() => {
       prompt.style.opacity = '0';
-      setTimeout(() => prompt.remove(), 300);
-    }, 5000);
+      setTimeout(() => prompt.remove(), 500);
+    }, 3000);
   }
   
  // Use MutationObserver to wait for the cursor element to be added to the DOM
