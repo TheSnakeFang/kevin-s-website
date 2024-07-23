@@ -1,7 +1,7 @@
 [
 build
 ]
-  command = "yarn install && yarn build"
+  publish = "."
 
 [
 build.environment

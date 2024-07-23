@@ -1,4 +1,8 @@
 {
+  "name": "kevin-s-website",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "ai-digest": "^1.0.4"
   },
