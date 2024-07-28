@@ -1,2 +1,6 @@
-User-agent: * 
+User-agent: *
+Allow: /
+
+Sitemap: https://kevinfang.tech/sitemap.xml
+
 Disallow: /uploads/docs/Fang_Kevin_Resume.pdf
