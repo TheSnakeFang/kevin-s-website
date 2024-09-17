@@ -614,7 +614,7 @@ Disallow: /uploads/docs/Fang_Kevin_Resume.pdf
           <a href="https://github.com/TheSnakeFang" target="_blank" class="nav-link _1 w-nav-link"
             >Github</a
           >
-          <a href="mailto:kevinfang@cmu.edu" class="nav-link-3 w-nav-link">Contact</a>
+          <a href="mailto:me@kevinfang.tech" class="nav-link-3 w-nav-link">Contact</a>
         </nav>
         <div class="menu-button w-nav-button"><div class="icon w-icon-nav-menu"></div></div>
       </div>
