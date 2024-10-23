@@ -10,6 +10,6 @@ Website: http://kevinfang.tech
 
 Created by: Kevin Fang
 
-Find me at: kevinfang AT cmu.edu
+Find me at: me AT kevinfang.tech
 
 
